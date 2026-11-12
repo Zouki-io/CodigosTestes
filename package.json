@@ -1,0 +1,24 @@
+{
+  "name": "codigostestes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zouki-io/CodigosTestes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zouki-io/CodigosTestes/issues"
+  },
+  "homepage": "https://github.com/Zouki-io/CodigosTestes#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
